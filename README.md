@@ -27,7 +27,7 @@ I am an undergraduate student at Stekom University majoring in Informatics Engin
 
 #### My skill
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,react,laravel,nodejs,mysql,git,github&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,react,laravel,nodejs,mysql,git,github&perline=10&theme=light)
 
 #### Connect w/ me
 
