@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Banner](img/banner.png)
 
-#### Me?
+#### Me? Vibe coder
 
 I am an undergraduate student at Stekom University majoring in Informatics Engineering, and I am interested in Web Development, Graphic Design, and Video Editing.
 
