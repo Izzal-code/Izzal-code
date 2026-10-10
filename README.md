@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](../img/banner.png)
+![Banner](img/banner.png)
 
 ## Me?
 
@@ -32,7 +32,9 @@ I am an undergraduate student at Stekom University majoring in Informatics Engin
 ## Play w/ me C'mon
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Izzal-code/Izzal-code/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Izzal-code/Izzal-code/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Izzal-code/Izzal-code/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izzalmalasngoding/izzalmalasngoding/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izzalmalasngoding/izzalmalasngoding/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izzalmalasngoding/izzalmalasngoding/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
