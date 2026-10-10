@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 I am an undergraduate student at Stekom University majoring in Informatics Engineering, and I am interested in Web Development, Graphic Design, and Video Editing.
 
+![idk](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3lxNXU0OXIxdmRsY3Z3NDNnaGhuNzBib2gyN2ZuMjRsbHBsYzl4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif)
+
 ## My skill
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,react,laravel,nodejs,mysql,git,github&perline=10&theme=light)](https://skillicons.dev)
